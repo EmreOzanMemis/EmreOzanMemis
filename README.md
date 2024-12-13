@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I’m **Emre Ozan Memiş**, a passionate Cloud Solution Manager with a focus on **Microsoft Azure** and **GitHub practices**. 🚀  
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=emreozanmemis&show_icons=true&theme=dark" />
+
 ### About Me  
 - 🔭 I’m currently working as a **Solution Manager at OBSS**, helping organizations design and implement scalable, secure, and efficient cloud solutions.  
 - 🌟 **5x Microsoft MVP** | **Microsoft Certified Trainer (MCT)** | Azure Advocate.  
