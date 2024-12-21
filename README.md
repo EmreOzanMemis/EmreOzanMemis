@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile! I’m **Emre Ozan Memiş**, a passionate Cloud Solution Manager with a focus on **Microsoft Azure** and **GitHub practices**. 🚀  
 
+![image](https://github.com/user-attachments/assets/e649f110-7377-4e80-b6f7-28b5018fb1a9)
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=emreozanmemis&show_icons=true&theme=dark" />
 
 ### About Me  
