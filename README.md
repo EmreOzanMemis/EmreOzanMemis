@@ -22,6 +22,21 @@ Welcome to my GitHub profile! I’m **Emre Ozan Memiş**, a passionate Cloud Sol
 
 ### My Top Repositories  
 - [Azure App Services Starter](https://github.com/EmreOzanMemis/AzureAppServices): Simplified hosting for web and mobile apps.  
-- [Azure Storage Solutions](https://github.com/EmreOzanMemis/AzureStorageAccount): A comprehensive guide to leveraging Azure Storage.  
+- [Azure Storage Solutions](https://github.com/EmreOzanMemis/AzureStorageAccount): A comprehensive guide to leveraging Azure Storage.
+- [DevOps Nedir](https://github.com/EmreOzanMemis/DevOpsNedir): DevOps Nedir ?  
+
+---
+
+### 🎥 Featured Videos
+
+[![Geleceğin Kodları GitHub Copilot ile Yazılıyor](https://img.youtube.com/vi/4giijFR70sk/0.jpg)](https://www.youtube.com/watch?v=4giijFR70sk)  
+**Geleceğin Kodları GitHub Copilot ile Yazılıyor**
+
+
+
+[![Geleceğin Kodları GitHub ile Yazılıyor](https://img.youtube.com/vi/15poKKD6688/0.jpg)](https://www.youtube.com/watch?v=15poKKD6688)  
+**Geleceğin Kodları GitHub Copilot ile Yazılıyor**
+
+---
 
 Thanks for stopping by! Feel free to explore my projects and get in touch if you'd like to collaborate. Let's build something amazing together! 🚀  
