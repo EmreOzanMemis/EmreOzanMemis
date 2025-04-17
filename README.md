@@ -37,6 +37,10 @@ Welcome to my GitHub profile! I’m **Emre Ozan Memiş**, a passionate Cloud Sol
 [![Geleceğin Kodları GitHub ile Yazılıyor](https://img.youtube.com/vi/15poKKD6688/0.jpg)](https://www.youtube.com/watch?v=15poKKD6688)  
 **Geleceğin Kodları GitHub Copilot ile Yazılıyor**
 
+
+[![Geleceğin Kodları GitHub Advanced Securtiy ile Güvence Altında](https://img.youtube.com/vi/dDcdwBNo1oA/0.jpg)](https://www.youtube.com/watch?v=dDcdwBNo1oA)  
+**Geleceğin Kodları GitHub Advanced Securtiy ile Güvence Altında**
+
 ---
 
 Thanks for stopping by! Feel free to explore my projects and get in touch if you'd like to collaborate. Let's build something amazing together! 🚀  
