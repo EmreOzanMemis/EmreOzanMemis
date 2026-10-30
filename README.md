@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m **Emre Ozan Memiş**, a passionate Cloud Sol
 
 ### About Me  
 - 🔭 I’m currently working as a **Solution Manager at OBSS**, helping organizations design and implement scalable, secure, and efficient cloud solutions.  
-- 🌟 **6x Microsoft MVP** | **Microsoft Certified Trainer (MCT)** | Azure and DevOps Advocate.  
+- 🌟 **7x Microsoft MVP** | **Microsoft Certified Trainer (MCT)** | Azure and DevOps Advocate.  
 - 🌱 I’m constantly learning and exploring cutting-edge cloud technologies, including Azure Kubernetes Service (AKS), Azure DevOps, Azure App Service and serverless architectures.  
 - 👯 I’m looking to collaborate on **open-source projects** related to cloud automation, infrastructure-as-code, and CI/CD pipelines.  
 - 💬 Ask me about **Azure App Services**, **GitHub Actions**, and all things **DevOps**.  
